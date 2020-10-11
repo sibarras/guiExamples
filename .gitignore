@@ -1,0 +1,5 @@
+/.vscode 
+/venv 
+secret* 
+*.log 
+/__pycache__ 
